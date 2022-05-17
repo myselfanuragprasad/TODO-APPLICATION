@@ -1,1 +1,1 @@
-# TODO-APPLICATION
+# TODO-APPLICATION In this project I have shown how to code a Todo application using HTML & CSS & JavaScript, where I have edit and delete each item in the todo list as well as delete all the items in the list with the use of local storage so that all of our data will be stored in our browser even if you close the browser, so that data won't be lost.I have also used the search functionality to search the items in the list.
